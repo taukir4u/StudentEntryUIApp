@@ -1,0 +1,9 @@
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\bin\Debug\StudentEntryUIApp.exe.config
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.csprojResolveAssemblyReference.cache
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.StudentEntryUI.resources
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.Properties.Resources.resources
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.csproj.GenerateResource.Cache
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\bin\Debug\StudentEntryUIApp.exe
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\bin\Debug\StudentEntryUIApp.pdb
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.exe
+H:\Taukir\StudentEntryUIApp\StudentEntryUIApp\obj\Debug\StudentEntryUIApp.pdb
